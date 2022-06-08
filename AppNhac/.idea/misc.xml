@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/drawable/custom_backgroud_playnhac.xml" value="0.164" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/drawable/custom_background_banner.xml" value="0.224" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/drawable/ic_small_music.xml" value="0.146" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_danhsach_album.xml" value="0.23097826086956522" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.25" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_danhsachcacchude.xml" value="0.1816123188405797" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_danhsachcacplaylist.xml" value="0.20742753623188406" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_danhsachtheloaitheochude.xml" value="0.2056159420289855" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/activity_play_nhac.xml" value="0.25" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_album.xml" value="0.22" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_all_album.xml" value="0.23097826086956522" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_baihathot.xml" value="0.24895833333333334" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_banner.xml" value="0.2" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.22" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_danh_sach_cac_playlist.xml" value="0.1953125" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_danhsachchude.xml" value="0.2056159420289855" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_play_baihat.xml" value="0.33" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_playlist.xml" value="0.25" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_search_bai_hat.xml" value="0.18885869565217392" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/dong_theloaitheochude.xml" value="0.2056159420289855" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_album_hot.xml" value="0.33" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_baihat_hot.xml" value="0.24895833333333334" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_banner.xml" value="0.22" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_chude_theloai_today.xml" value="0.2" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_dia_nhac.xml" value="0.23097826086956522" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_laylist.xml" value="0.2125" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.23097826086956522" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_playlist.xml" value="0.21" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_timkiem.xml" value="0.2" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/layout/fragment_trangchu.xml" value="0.16" />
+        <entry key="..\:/HUUNHAN/Android/AppNhac/app/src/main/res/menu/search_view.xml" value="0.34010416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

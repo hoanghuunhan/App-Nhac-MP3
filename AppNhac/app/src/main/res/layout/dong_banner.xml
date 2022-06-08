@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/custom_background_banner" />
+
+    <ImageView
+        android:id="@+id/iv_backgroundbanner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:id="@+id/relative1"
+        android:layout_alignBottom="@id/iv_backgroundbanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_banner"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:padding="2dp" />
+        <TextView
+            android:id="@+id/tv_title_banner"
+            android:layout_alignTop="@id/iv_banner"
+            android:layout_toRightOf="@id/iv_banner"
+            android:textSize="17sp"
+            android:text="Title"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <RelativeLayout
+            android:layout_toRightOf="@id/iv_banner"
+            android:layout_below="@id/tv_title_banner"
+            android:layout_marginTop="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_noidung"
+                android:textSize="13sp"
+                android:maxLines="2"
+                android:textColor="@color/white"
+                android:text="Ban dang nghe nhung ca khuc nhac tre hot nhat 2022"
+                android:layout_marginRight="40dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>
